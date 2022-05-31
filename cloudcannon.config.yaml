@@ -29,4 +29,5 @@ _editables:
     link: true
     removeformat: true
     copyformatting: true
+    styles: /editor.css
 
